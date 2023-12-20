@@ -1,0 +1,219 @@
+[
+    {
+        "titulo": "Lenguajes de Programación",
+        "contenido": [
+            {
+                "desc": "Python",
+                "experiencia": 10,
+                "svg": "python.svg"
+            },{
+                "desc": "PHP",
+                "experiencia": 10,
+                "svg": "php.svg"
+            },{
+                "desc": "JavaScript",
+                "experiencia": 8,
+                "svg": "js.svg"
+            },{
+                "desc": "Jquery",
+                "experiencia": 8,
+                "svg": "jquery.svg"
+            },{
+                "desc": "Ruby",
+                "experiencia": 5,
+                "svg": "ruby.svg"
+            },{
+                "desc": "Java",
+                "experiencia": 5,
+                "svg": "java.svg"
+            },{
+                "desc": "C++",
+                "experiencia": 3,
+                "svg": "cplusplus.svg"
+            },{
+                "desc": "C#",
+                "experiencia": 3,
+                "svg": "csharp.svg"
+            },{
+                "desc": "Kotlin",
+                "experiencia": 3,
+                "svg": "kotlin.svg"
+            },{
+                "desc": "Swift",
+                "experiencia": 3,
+                "svg": "swift.svg"
+            }
+        ]
+    },
+    {
+        "titulo": "Frameworks e IDE's",
+        "contenido": [
+            {
+                "desc": "Laravel",
+                "svg": "laravel.svg"
+            },{
+                "desc": "Bootstrap",
+                "svg": "bootstrap.svg"
+            },{
+                "desc": "Django",
+                "svg": "django.svg"
+            },{
+                "desc": "Zurb",
+                "svg": "zurb.svg"
+            },{
+                "desc": "CodeIgniter",
+                "svg": "codeigniter.svg"
+            },{
+                "desc": "React",
+                "svg": "react.svg"
+            },{
+                "desc": "Gatsby",
+                "svg": "gatsby.svg"
+            },{
+                "desc": "Ruby on Rails",
+                "svg": "rubyonrails.svg"
+            },{
+                "desc": "NetBeans",
+                "svg": "netbeans.svg"
+            },{
+                "desc": "Visual Studio",
+                "svg": "visualstudio.svg"
+            }
+        ]
+    },
+    {
+        "titulo": "Bases de Datos",
+        "contenido": [
+            {
+                "desc": "Microsoft SQL Server",
+                "svg": "sqlserver.svg"
+            },{
+                "desc": "MySQL",
+                "svg": "mySQL.svg"
+            },{
+                "desc": "PostgreSQL",
+                "svg": "postgresql.svg"
+            },{
+                "desc": "FireBird",
+                "svg": "firebird.svg"
+            },{
+                "desc": "MongoDB",
+                "svg": "mongodb.svg"
+            },{
+                "desc": "SQLite",
+                "svg": "sqlite.svg"
+            }
+        ]
+    },
+    {
+        "titulo": "Herramientas",
+        "contenido": [
+            {
+                "desc": "Git",
+                "svg": "git.svg"
+            },{
+                "desc": "Gitlab",
+                "svg": "gitlab.svg"
+            },{
+                "desc": "Github",
+                "svg": "github.svg"
+            },{
+                "desc": "Bitbucket",
+                "svg": "bitbucket.svg"
+            },{
+                "desc": "Visual Studio Code",
+                "svg": "visualstudiocode.svg"
+            },{
+                "desc": "Atom",
+                "svg": "atom.svg"
+            },{
+                "desc": "Notepad++",
+                "svg": "notepadplusplus.svg"
+            },{
+                "desc": "IIS",
+                "svg": "iis.svg"
+            },{
+                "desc": "Apache",
+                "svg": "apache.svg"
+            },{
+                "desc": "Navicat",
+                "svg": "navicat.svg"
+            },{
+                "desc": "Microsoft Office",
+                "svg": "microsoftoffice.svg"
+            },{
+                "desc": "Libre Office",
+                "svg": "libreoffice.svg"
+            },{
+                "desc": "Adobe Photoshop ",
+                "svg": "adobephotoshop.svg"
+            },{
+                "desc": "Adobe Illustrator",
+                "svg": "adobeillustrator.svg"
+            }
+        ]
+    },
+    {
+        "titulo": "Sistemas Operativos",
+        "contenido": [
+            {
+                "desc": "Windows / Server",
+                "svg": "windows.svg"
+            },{
+                "desc": "Mac OS",
+                "svg": "macos.svg"
+            },{
+                "desc": "CentOs",
+                "svg": "centos.svg"
+            },{
+                "desc": "Ubuntu",
+                "svg": "ubuntu.svg"
+            },{
+                "desc": "Kali Linux",
+                "svg": "kalilinux.svg"
+            },{
+                "desc": "Parrot",
+                "svg": "parrot.svg"
+            }
+        ]
+    },
+    {
+        "titulo": "Soft Skills",
+        "contenido": [
+            {
+                "desc": "Curioso",
+                "svg": "curioso.svg"
+            },{
+                "desc": "Concentración",
+                "svg": "concentracion.svg"
+            },{
+                "desc": "Persistente",
+                "svg": "persistente.svg"
+            },{
+                "desc": "Colaborador",
+                "svg": "colaborador.svg"
+            },{
+                "desc": "Trabajo en Equipo",
+                "svg": "trabajoenequipo.svg"
+            },{
+                "desc": "Rápido Aprendizaje",
+                "svg": "raidoaprendizaje.svg"
+            },{
+                "desc": "Aprendizaje Constante",
+                "svg": "aprendizajeconstante.svg"
+            },{
+                "desc": "Buena Comunicación",
+                "svg": "buenacomunicacion.svg"
+            },{
+                "desc": "Buen Comunicador",
+                "svg": "buencomunicador.svg"
+            },{
+                "desc": "Buena Lógica",
+                "svg": "buenalogica.svg"
+            },{
+                "desc": "Buen Humor",
+                "svg": "buenhumor.svg"
+            }
+        ]
+    }
+]

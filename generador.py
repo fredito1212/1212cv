@@ -1,5 +1,9 @@
 from fpdf import FPDF
 from PIL import Image
+import json
+
+with open('datos/generales.json') as json_file:
+    dGenerales = json.load(json_file)
 
 pdf = FPDF(format="Letter")
 pdf.add_page()
@@ -33,13 +37,22 @@ pdf.image("iconos/at-solid.svg", w=4)
 pdf.set_xy(58, y)
 pdf.set_font("Bahnschrift", size=12)
 pdf.cell(text="isc.alfredobravo@gmail.com", border=0, align="C")
-
+#Cedula
 pdf.set_xy(123, y-1)
 pdf.image("iconos/id-card-solid.svg", w=6)
 pdf.set_xy(131, y)
 pdf.cell(text="Cédula profesional: 13282553", border=0, align="C")
+#telefono
+y=y+7
+pdf.set_xy(52.5, y)
+pdf.set_fill_color(0,0,0)
+pdf.image("iconos/mobile-screen-solid.svg", w=3)
+pdf.set_xy(58, y)
+pdf.set_font("Bahnschrift", size=12)
+pdf.cell(text="4431339713", border=0, align="C")
 
-pdf.set_x(52)
+y=y+7
+pdf.set_xy(52, y)
 pdf.image("iconos/at-solid.svg", w=4)
 
 
